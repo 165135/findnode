@@ -1,0 +1,1 @@
+Using the command "/findnode <nodename> <radius>", search for a node using its technical nodename within radius from the player. Returns coordinates and distance to node. (I am not responsible if your client crashes or lags)
